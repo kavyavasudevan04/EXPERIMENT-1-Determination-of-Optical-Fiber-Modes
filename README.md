@@ -57,7 +57,11 @@ Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
+![WhatsApp Image 2025-11-25 at 22 20 56_b942b2ca](https://github.com/user-attachments/assets/4a08bcf0-15bb-4127-8e09-7228b4a068d0)
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-25 at 22 21 22_8fb5798f](https://github.com/user-attachments/assets/75e713b4-2419-4d81-b1e5-acae609eb5b9)
+
 ## Result
+Thus, the mode characteristics of fiber optic cable supports or propagate through 6 modes and observe four lower order linearly polarised modes.
